@@ -1,5 +1,5 @@
 {
-  "name": "big-integer",
+  "name": "nomind-big-integer",
   "version": "1.0.0",
   "description": "simple big integer package",
   "main": "bigInteger.js",
