@@ -1,0 +1,26 @@
+{
+  "name": "big-integer",
+  "version": "1.0.0",
+  "description": "simple big integer package",
+  "main": "bigInteger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xNomind/big-integer.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "0xNomind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xNomind/big-integer/issues"
+  },
+  "homepage": "https://github.com/0xNomind/big-integer#readme",
+  "dependencies": {
+    "bignumber.js": "^9.1.2"
+  }
+}
