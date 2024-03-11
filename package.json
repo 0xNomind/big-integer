@@ -1,6 +1,6 @@
 {
   "name": "nomind-big-integer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple big integer package",
   "main": "bigInteger.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xNomind/big-integer.git"
+    "url": "https://github.com/0xNomind/big-integer.git"
   },
   "keywords": [
     "npm",
